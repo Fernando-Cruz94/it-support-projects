@@ -8,6 +8,7 @@ These hands-on experiences demonstrate my skills as an aspiring IT Technician.
 ## 📂 Projects Included
 
 🔧 [MacBook Pro Password Recovery](https://github.com/Fernando-Cruz94/it-support-projects/blob/main/MacBook%20Pro%20Recovery%20Password.pdf)
+
 🎥[Watch Video Walkthrough on YouTube](https://youtu.be/L26KKpZlqZk)
 - Device: MacBook Pro Retina 15"
 - Problem: Forgotten password and outdated macOS
