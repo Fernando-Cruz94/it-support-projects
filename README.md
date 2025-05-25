@@ -14,9 +14,8 @@ These hands-on experiences demonstrate my skills as an aspiring IT Technician.
 - Problem: Forgotten password and outdated macOS
 - Solution: Used Apple ID and Recovery Mode
 
-### 🖨️ Epson EcoTank ET-4850 Full Setup
+🖨️ [Epson EcoTank ET-4850 Full Setup](https://github.com/Fernando-Cruz94/it-support-projects/blob/main/Epson%20ET-4850%20Setup.pdf)
 - Wireless installation, scanner setup, troubleshooting print errors
-  
 ---
 
 ## 👨‍💻 Author
