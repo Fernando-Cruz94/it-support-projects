@@ -1,2 +1,24 @@
-# it-support-projects
-A collection of hands-on IT support projects, tasks, and real-world troubleshooting cases. Includes documentation of technical setups, password recovery procedures, scripting experiments, and device configurations—based on my self-taught training and Google/Microsoft IT certifications.
+# IT Support Projects
+
+This repository contains real-world IT support practices I've completed, including documentation, troubleshooting cases, and basic automation.  
+These hands-on experiences demonstrate my skills as an aspiring IT Technician.
+
+---
+
+## 📂 Projects Included
+
+### 🔧 MacBook Pro Password Recovery
+- Device: MacBook Pro Retina 15"
+- Problem: Forgotten password and outdated macOS
+- Solution: Used Apple ID and Recovery Mode
+
+### 🖨️ Epson EcoTank ET-4850 Full Setup
+- Wireless installation, scanner setup, troubleshooting print errors
+  
+---
+
+## 👨‍💻 Author
+
+**Fernando Cruz**  
+IT Support Student | Google & Microsoft Certified  
+📍 Basalt, Colorado | 📧 thebigfer1994@gmail.com
