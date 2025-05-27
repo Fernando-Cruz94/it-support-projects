@@ -15,6 +15,7 @@ These hands-on experiences demonstrate my skills as an aspiring IT Technician.
 - Solution: Used Apple ID and Recovery Mode
 
 🖨️ [Epson EcoTank ET-4850 Full Setup](https://github.com/Fernando-Cruz94/it-support-projects/blob/main/Epson%20ET-4850%20Setup.pdf)
+
 🎥[Watch Video Walkthrough on YouTube](https://youtu.be/RdSUc0KxS54)
 - Wireless installation, scanner setup, troubleshooting print errors
 ---
