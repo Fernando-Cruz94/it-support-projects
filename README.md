@@ -31,4 +31,5 @@ These hands-on experiences demonstrate my skills as an aspiring IT Technician.
 **Fernando Cruz**  
 IT Support Student | Google & Microsoft Certified  
 📍 Basalt, Colorado | 📧 Fernando_009@hotmail.es
+
 📄 [Resume](Fernando_Cruz_IT_Resume_2025.pdf)
