@@ -24,4 +24,4 @@ These hands-on experiences demonstrate my skills as an aspiring IT Technician.
 
 **Fernando Cruz**  
 IT Support Student | Google & Microsoft Certified  
-📍 Basalt, Colorado | 📧 thebigfer1994@gmail.com
+📍 Basalt, Colorado | 📧 Fernando_009@hotmail.es
