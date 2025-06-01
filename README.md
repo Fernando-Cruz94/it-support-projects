@@ -20,8 +20,15 @@ These hands-on experiences demonstrate my skills as an aspiring IT Technician.
 - Wireless installation, scanner setup, troubleshooting print errors
 ---
 
+📜 Certifications
+
+- [Google IT Support Professional Certificate](https://coursera.org/share/d5a3faac4616e11fde736800071f4f77)
+- [Microsoft IT Support Professional Certificate](https://coursera.org/share/97a8b5f5b9f4902a96867a43c98006eb)
+- Currently preparing for CompTIA Tech+ (FC0-U71)
+
 ## 👨‍💻 Author
 
 **Fernando Cruz**  
 IT Support Student | Google & Microsoft Certified  
 📍 Basalt, Colorado | 📧 Fernando_009@hotmail.es
+📄 [Resume](Fernando_Cruz_IT_Resume_2025.pdf)
