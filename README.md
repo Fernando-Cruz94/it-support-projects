@@ -40,6 +40,8 @@ Before flashing BIOS version 4301 on an ASUS Z690-A motherboard, I performed a f
 ### ✅ Project 4 – BIOS Update Procedure (ASUS Z690-A)
 Documented the complete BIOS update process using ASUS EZ Flash, from version 2103 to 4301.  
 Includes system prep, USB flashing steps, UEFI settings, and post-update validation.  
+🎥 [YouTube Tutorial](https://youtu.be/PCLHksrwGAQ)
+
 📄 [Read Documentation](https://github.com/Fernando-Cruz94/it-support-projects/blob/main/BIOS%20Update%20Procedure%20for%20ASUS%20Z690-A%20with%20Intel%20Core%20i9-12900K.pdf)
 
 ---
