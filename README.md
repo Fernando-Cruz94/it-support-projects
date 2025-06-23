@@ -44,6 +44,9 @@ Includes system prep, USB flashing steps, UEFI settings, and post-update validat
 
 📄 [Read Documentation](https://github.com/Fernando-Cruz94/it-support-projects/blob/main/BIOS%20Update%20Procedure%20for%20ASUS%20Z690-A%20with%20Intel%20Core%20i9-12900K.pdf)
 
+### ✅ Project 5 - Full Windows 11 Reinstallation – Dell Latitude 7400**  
+  Recovered a long-unused laptop by formatting the drive and reinstalling Windows 11 from scratch. Included post-install driver setup, system updates, and restore point creation.  
+  📄 [Read Documentation]([enlace-a-tu-repo-o-pdf](https://github.com/Fernando-Cruz94/it-support-projects/blob/main/Full%20Windows%2011%20Reinstallation%20on%20an%20DELL%20Laptop.pdf))
 ---
 
 ## 🧠 Goals
