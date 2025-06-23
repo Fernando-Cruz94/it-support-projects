@@ -15,38 +15,36 @@ Welcome to my IT portfolio! I use this space to document my hands-on projects, I
 ## 📂 Projects
 
 ### ✅ Project 1 – MacBook Pro Recovery with Apple ID
-Recovering access to a MacBook Pro (model A1398) using Apple ID in Recovery Mode. Resetting the password, verifying security through FileVault, and updating macOS.  
+Recovered access to a MacBook Pro (model A1398) using Apple ID in Recovery Mode. Reset the password, verified FileVault encryption, and updated macOS.  
 🎥 [YouTube Tutorial](https://youtu.be/L26KKpZlqZk)  
 📄 [Read Documentation](MacBook%20Pro%20Recovery%20Password.pdf)
 
 ---
 
 ### ✅ Project 2 – Epson EcoTank ET-4850 Full Setup
-Step-by-step setup and configuration of a home office printer (ET-4850), 
-including Wi-Fi, firmware update, PC/mobile scanning setup, and troubleshooting print issues on Windows 11.  
-
-🎥 [YouTube Tutorial](https://youtu.be/RdSUc0KxS54)
-
+🖨️ Step-by-step setup and configuration of a home office printer (ET-4850), including Wi-Fi, firmware update, PC/mobile scanning, and troubleshooting print issues on Windows 11.  
+🎥 [YouTube Tutorial](https://youtu.be/RdSUc0KxS54)  
 📄 [Read Documentation](Epson%20ET-4850%20Setup.pdf)
 
 ---
 
 ### ✅ Project 3 – Driver Check Before Updating BIOS
-Before flashing BIOS version 4301 on an ASUS Z690-A motherboard, I performed a full driver verification and update using Windows Update, ASUS support, and Snappy Driver Installer.  
+🧩 Verified and updated all critical drivers before flashing BIOS version 4301 on an ASUS Z690-A motherboard using Windows Update, ASUS support, and Snappy Driver Installer.  
 📄 [Read Documentation](Project%20Driver%20Check%20Before%20Updating%20the%20BIOS.pdf)
 
 ---
 
 ### ✅ Project 4 – BIOS Update Procedure (ASUS Z690-A)
-Documented the complete BIOS update process using ASUS EZ Flash, from version 2103 to 4301.  
-Includes system prep, USB flashing steps, UEFI settings, and post-update validation.  
-🎥 [YouTube Tutorial](https://youtu.be/PCLHksrwGAQ)
-
+⚙️ Covers system preparation, USB flashing using ASUS EZ Flash, UEFI configuration, and post-update verification. BIOS updated from version 2103 to 4301.  
+🎥 [YouTube Tutorial](https://youtu.be/PCLHksrwGAQ)  
 📄 [Read Documentation](https://github.com/Fernando-Cruz94/it-support-projects/blob/main/BIOS%20Update%20Procedure%20for%20ASUS%20Z690-A%20with%20Intel%20Core%20i9-12900K.pdf)
 
-### ✅ Project 5 - Full Windows 11 Reinstallation – Dell Latitude 7400**  
-  Recovered a long-unused laptop by formatting the drive and reinstalling Windows 11 from scratch. Included post-install driver setup, system updates, and restore point creation.  
-  📄 [Read Documentation](https://github.com/Fernando-Cruz94/it-support-projects/blob/main/Full%20Windows%2011%20Reinstallation%20on%20an%20DELL%20Laptop.pdf)
+---
+
+### ✅ Project 5 – Full Windows 11 Reinstallation – Dell Latitude 7400
+🖥️ Recovered a long-unused laptop by formatting the drive and reinstalling Windows 11 from scratch. Included post-install driver setup, system updates, and restore point creation.  
+📄 [Read Documentation](https://github.com/Fernando-Cruz94/it-support-projects/blob/main/Full%20Windows%2011%20Reinstallation%20on%20an%20DELL%20Laptop.pdf)
+
 ---
 
 ## 🧠 Goals
