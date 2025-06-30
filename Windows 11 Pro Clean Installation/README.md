@@ -19,6 +19,9 @@ CyberPowerPC TRACER III ULTRA-SLIM
 | **System Type** | x64-based PC (64-bit) |
 | **OS Version** | Windows 11 Pro 10.0.26100 |
 
+📷 System Info Screenshot  
+![System Info](images/System_Info.jpeg)
+
 ---
 
 ## 🎯 Project Objectives
@@ -51,10 +54,10 @@ CyberPowerPC TRACER III ULTRA-SLIM
 ![Partitions](images/partitions.jpeg)
 
 ### 3. Install Windows 11 Pro  
-![Installation Step](images/Windows_install_1.jpeg)
+![Installation Step](images/windos_install_1.jpg)
 
 ### 4. Complete Initial Setup  
-![Windows Setup](images/Windows_install_3.jpeg)
+![Windows Setup](images/Windows_install_3.jpg)
 
 ---
 
@@ -78,28 +81,6 @@ Apps installed:
 - Discord, Opera, Firefox
 - GIMP, WinRAR, Notepad++
 - TeamViewer, .NET 4.8.1
-
----
-
-## 📊 Full System Info
-
-| Field | Value |
-|-------|-------|
-| **System Model** | TRACER III ULTRA-SLIM |
-| **Manufacturer** | CyberPowerPC |
-| **Processor** | Intel Core i7-9750H @ 2.60GHz, 6 Cores / 12 Threads |
-| **Installed RAM** | 16 GB |
-| **System Type** | x64-based PC (64-bit) |
-| **BIOS Version** | American Megatrends Inc. N.1.01, 10/24/2019 |
-| **BIOS Mode** | UEFI |
-| **OS Version** | Windows 11 Pro 10.0.26100 |
-| **Secure Boot** | Enabled |
-| **Virtualization** | Enabled + VBS running 
-
----
-
-📷 System Info Screenshot  
-![System Info](System_Info.jpeg)
 
 ---
 
