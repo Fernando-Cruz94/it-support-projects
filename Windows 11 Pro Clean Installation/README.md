@@ -8,14 +8,16 @@ This project documents the full process of wiping a laptop's internal drive, cre
 
 ## 🖥️ Laptop Specifications
 
-- **CPU**: Intel Core i5 / i7
-- **RAM**: 8 GB / 16 GB
-- **Storage**: 512 GB SSD  
-  - `C:` System  
-  - `D:` Personal Files  
-  - Free space reserved for future Ubuntu installation  
-- **Original OS**: Windows 11 Home  
-- **Target OS**: Windows 11 Pro
+CyberPowerPC TRACER III ULTRA-SLIM
+
+| Field | Value |
+|-------|-------|
+| **System Model** | TRACER III ULTRA-SLIM |
+| **Manufacturer** | CyberPowerPC |
+| **Processor** | Intel Core i7-9750H @ 2.60GHz, 6 Cores / 12 Threads |
+| **Installed RAM** | 16 GB |
+| **System Type** | x64-based PC (64-bit) |
+| **OS Version** | Windows 11 Pro 10.0.26100 |
 
 ---
 
