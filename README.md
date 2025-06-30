@@ -45,6 +45,13 @@ Recovered access to a MacBook Pro (model A1398) using Apple ID in Recovery Mode.
 🖥️ Recovered a long-unused laptop by formatting the drive and reinstalling Windows 11 from scratch. Included post-install driver setup, system updates, and restore point creation.  
 📄 [Read Documentation](https://github.com/Fernando-Cruz94/it-support-projects/blob/main/Full%20Windows%2011%20Reinstallation%20on%20an%20DELL%20Laptop.pdf)
 
+### ✅ Project 6 – Windows 11 Pro Clean Installation and Partition Setup
+
+Performed a clean installation of Windows 11 Pro on a formatted laptop. Created custom partitions (system and personal), updated drivers, and installed daily-use apps with Ninite. Reserved disk space for a future Linux installation.
+
+📄 [Read Documentation](Project06-Win11Pro-Install/Windows%2011%20Pro%20Clean%20Installation%20and%20Partition%20Setup.pdf)
+
+
 ---
 
 ## 🧠 Goals
