@@ -49,7 +49,7 @@ Recovered access to a MacBook Pro (model A1398) using Apple ID in Recovery Mode.
 
 Performed a clean installation of Windows 11 Pro on a formatted laptop. Created custom partitions (system and personal), updated drivers, and installed daily-use apps with Ninite. Reserved disk space for a future Linux installation.
 
-📄 [Read Documentation](Project06-Win11Pro-Install/Windows%2011%20Pro%20Clean%20Installation%20and%20Partition%20Setup.pdf)
+📄 [Read Documentation](https://github.com/Fernando-Cruz94/it-support-projects/blob/30615fd2fd132944b93ce3caeaac47085f0a2daf/Windows%2011%20Pro%20Clean%20Installation/Windows%2011%20Pro%20Clean%20Installation%20and%20Partition%20Setup.pdf)
 
 
 ---
