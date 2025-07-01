@@ -64,4 +64,6 @@ This project documents the recovery and macOS update of a MacBook Pro that was l
 ## 🔗 References
 
 - Apple ID recovery: [https://iforgot.apple.com](https://iforgot.apple.com)
-- Apple official support: [https://support.apple.com/en-us/102673](https://support.)
+- Apple official support: [https://support.apple.com/en-us/102673](https://support.apple.com/en-us/102673)
+
+📄 [Read Full Documentation (PDF)](MacBook%20Pro%20Recovery%20and%20macOS%20Update%20with%20Apple%20ID.pdf)
