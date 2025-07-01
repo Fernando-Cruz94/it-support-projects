@@ -24,7 +24,7 @@ Recovered access to a MacBook Pro (model A1398) using Apple ID in Recovery Mode.
 ### ✅ Project 2 – Epson EcoTank ET-4850 Full Setup
 🖨️ Step-by-step setup and configuration of a home office printer (ET-4850), including Wi-Fi, firmware update, PC/mobile scanning, and troubleshooting print issues on Windows 11.  
 🎥 [YouTube Tutorial](https://youtu.be/RdSUc0KxS54)  
-📄 [Read Documentation](Epson%20ET-4850%20Setup.pdf)
+📄 [Read Documentation](https://github.com/Fernando-Cruz94/it-support-projects/blob/main/Epson-ET4850-Setup/Epson%20EcoTank%20ET-4850.pdf)
 
 ---
 
