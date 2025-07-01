@@ -43,7 +43,7 @@ Recovered access to a MacBook Pro (model A1398) using Apple ID in Recovery Mode.
 
 ### ✅ Project 5 – Full Windows 11 Reinstallation – Dell Latitude 7400
 🖥️ Recovered a long-unused laptop by formatting the drive and reinstalling Windows 11 from scratch. Included post-install driver setup, system updates, and restore point creation.  
-📄 [Read Documentation](https://github.com/Fernando-Cruz94/it-support-projects/blob/main/Full%20Windows%2011%20Reinstallation%20on%20an%20DELL%20Laptop.pdf)
+📄 [Read Documentation](https://github.com/Fernando-Cruz94/it-support-projects/blob/main/Win11-Reinstall-Dell7400/Full%20Windows%2011%20Reinstallation%20on%20an%20DELL%20Laptop.pdf)
 
 ### ✅ Project 6 – Windows 11 Pro Clean Installation and Partition Setup
 
