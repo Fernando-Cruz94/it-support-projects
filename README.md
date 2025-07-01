@@ -30,7 +30,7 @@ Recovered access to a MacBook Pro (model A1398) using Apple ID in Recovery Mode.
 
 ### ✅ Project 3 – Driver Check Before Updating BIOS
 🧩 Verified and updated all critical drivers before flashing BIOS version 4301 on an ASUS Z690-A motherboard using Windows Update, ASUS support, and Snappy Driver Installer.  
-📄 [Read Documentation](Project%20Driver%20Check%20Before%20Updating%20the%20BIOS.pdf)
+📄 [Read Documentation](https://github.com/Fernando-Cruz94/it-support-projects/blob/main/Driver-Check-BIOS/Project%20Driver%20Check%20Before%20Updating%20the%20BIOS.pdf)
 
 ---
 
