@@ -37,7 +37,7 @@ Recovered access to a MacBook Pro (model A1398) using Apple ID in Recovery Mode.
 ### ✅ Project 4 – BIOS Update Procedure (ASUS Z690-A)
 ⚙️ Covers system preparation, USB flashing using ASUS EZ Flash, UEFI configuration, and post-update verification. BIOS updated from version 2103 to 4301.  
 🎥 [YouTube Tutorial](https://youtu.be/PCLHksrwGAQ)  
-📄 [Read Documentation](https://github.com/Fernando-Cruz94/it-support-projects/blob/main/BIOS%20Update%20Procedure%20for%20ASUS%20Z690-A%20with%20Intel%20Core%20i9-12900K.pdf)
+📄 [Read Documentation](https://github.com/Fernando-Cruz94/it-support-projects/blob/main/BIOS-Update-ASUS-Z690/BIOS%20Update%20Procedure%20for%20ASUS%20Z690-A%20with%20Intel%20Core%20i9-12900K.pdf)
 
 ---
 
