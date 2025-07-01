@@ -17,7 +17,7 @@ Welcome to my IT portfolio! I use this space to document my hands-on projects, I
 ### ✅ Project 1 – MacBook Pro Recovery with Apple ID
 Recovered access to a MacBook Pro (model A1398) using Apple ID in Recovery Mode. Reset the password, verified FileVault encryption, and updated macOS.  
 🎥 [YouTube Tutorial](https://youtu.be/L26KKpZlqZk)  
-📄 [Read Documentation](MacBook%20Pro%20Recovery%20Password.pdf)
+📄 [Read Documentation](https://github.com/Fernando-Cruz94/it-support-projects/blob/main/MacBook-Recovery/MacBook%20Pro%20Recovery%20and%20macOS%20Update%20with%20Apple%20ID.pdf)
 
 ---
 
